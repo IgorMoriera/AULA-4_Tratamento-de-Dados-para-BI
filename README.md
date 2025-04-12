@@ -49,7 +49,7 @@ Este repositório contém o material completo do projeto de análise de dados de
 - Criação de medidas e visuais no Power BI
 - Estratégias de visualização e storytelling de dados
 
-> Confira a teoria em: [Apresentação](https://github.com/IgorMoriera/AULA-4_Tratamento-de-Dados-para-BI/tree/main/presentation)
+	> *Confira a teoria em*: [Apresentação](https://github.com/IgorMoriera/AULA-4_Tratamento-de-Dados-para-BI/tree/main/presentation)
 
 ---
 
