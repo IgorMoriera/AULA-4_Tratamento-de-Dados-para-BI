@@ -49,6 +49,8 @@ Este repositório contém o material completo do projeto de análise de dados de
 - Criação de medidas e visuais no Power BI
 - Estratégias de visualização e storytelling de dados
 
+> Confira a teoria em: [Apresentação](https://github.com/IgorMoriera/AULA-4_Tratamento-de-Dados-para-BI/tree/main/presentation)
+
 ---
 
 ## 📊 Principais Métricas no Dashboard
@@ -66,7 +68,7 @@ Este repositório contém o material completo do projeto de análise de dados de
 
 **Igor Moreira**  
 Curso de Extensão 2025.1  
-Tema: *Do caos à clareza: preparando dados para o BI*
+Tema: *Tratamento de Dados para BI*
 
 ---
 
