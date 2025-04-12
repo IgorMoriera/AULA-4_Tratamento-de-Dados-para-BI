@@ -7,9 +7,9 @@ Este repositório contém o material completo do projeto de análise de dados de
 ## 📁 Estrutura do Repositório
 
 📂 projeto_exportacoes_bi/  
-├── `data`/              - Contém os arquivos tratados prontos para importação no Power BI, *Os dados estão disponíveis via [Google Drive](https://drive.google.com/drive/folders/1NFBguB2NEaWcj4lf_4z8fW8kucXJtr23?usp=drive_link)*  
+├── `data`/              - Contém os arquivos tratados prontos para importação no Power BI. *Os dados estão disponíveis via: [Google Drive](https://drive.google.com/drive/folders/1NFBguB2NEaWcj4lf_4z8fW8kucXJtr23?usp=drive_link)*  
 ├── `notebooks`/         - Notebooks do Google Colab com o tratamento e modelagem dos dados.  
-├── `dashboards`/        - Imagens e arquivos do dashboard criado no Power BI, *o arquivo `.pbix` pode ser acessado via [Google Drive](https://drive.google.com/drive/folders/1BpxZA3IE3x-N-XFYmUPfPUK_tWwUYPE6?usp=drive_link)*  
+├── `dashboards`/        - Imagens e arquivos do dashboard criado no Power BI. *O arquivo `.pbix` pode ser acessado via: [Google Drive](https://drive.google.com/drive/folders/1BpxZA3IE3x-N-XFYmUPfPUK_tWwUYPE6?usp=drive_link)*  
 ├── `diagrams`/          - Diagramas ER, star schema e snowflake.  
 ├── `presentation`/      - Slides utilizados na apresentação do curso.  
 ├── `docs`/              - Documentação adicional (PDFs, imagens, resumos explicativos).  
